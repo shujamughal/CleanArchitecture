@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CleanArchitecture.Application.Interfaces.Persistence
+﻿namespace CleanArchitecture.Application.Interfaces.Persistence
 {
-    internal class IUnitOfWork
+    public interface IUnitOfWork
     {
+        ICustomerRepository Customer { get; }
+        IOrderRepository Order { get; }
+        Task Save();
     }
 }

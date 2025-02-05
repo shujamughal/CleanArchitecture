@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CleanArchitecture.Domain;
 
 namespace CleanArchitecture.Application.Interfaces.Persistence
 {
-    internal class IOrderRepository
+    public interface IOrderRepository : IGenericRepository<Order>
     {
+        // Add methods specific to Order operations if needed.
+        // Get all orders for a specific customer. Task<List<Order>> GetOrdersByCustomerIdAsync(int customerId); 
+        // Get an order using its unique order number. Task<Order?> GetOrderByOrderNumberAsync(string orderNumber); 
+        // Get orders within a specified date range. Task<List<Order>> GetOrdersByDateRangeAsync(DateTime startDate, DateTime endDate); 
     }
 }

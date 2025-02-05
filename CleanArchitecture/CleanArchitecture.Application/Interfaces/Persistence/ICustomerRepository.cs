@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CleanArchitecture.Domain;
 
 namespace CleanArchitecture.Application.Interfaces.Persistence
 {
-    internal class Class1
+    public interface ICustomerRepository : IGenericRepository<Customer>
     {
+        // Add methods specific to Customer operations if needed.
+        // Get a customer by email address. Task<Customer?> GetCustomerByEmailAsync(string email); 
+        // Get customers who have placed orders since a specific date. Task<List<Customer>> GetCustomersWithRecentOrdersAsync(DateTime fromDate); 
     }
 }

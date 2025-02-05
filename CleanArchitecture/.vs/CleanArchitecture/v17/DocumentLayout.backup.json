@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{AADB5417-B888-4F2E-89DF-7110C2545D06}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\mmob3\\desktop\\playlist articles\\sir articles\\project\\cleanarchitecture\\cleanarchitecture.infrastructure\\cleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AADB5417-B888-4F2E-89DF-7110C2545D06}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\cleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6986B0-DCBE-4989-8246-A2F89B47DB30}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\mmob3\\desktop\\playlist articles\\sir articles\\project\\cleanarchitecture\\cleanarchitecture.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6986B0-DCBE-4989-8246-A2F89B47DB30}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6986B0-DCBE-4989-8246-A2F89B47DB30}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\mmob3\\desktop\\playlist articles\\sir articles\\project\\cleanarchitecture\\cleanarchitecture.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6986B0-DCBE-4989-8246-A2F89B47DB30}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6986B0-DCBE-4989-8246-A2F89B47DB30}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\mmob3\\desktop\\playlist articles\\sir articles\\project\\cleanarchitecture\\cleanarchitecture.domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E6986B0-DCBE-4989-8246-A2F89B47DB30}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6986B0-DCBE-4989-8246-A2F89B47DB30}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\mmob3\\desktop\\playlist articles\\sir articles\\project\\cleanarchitecture\\cleanarchitecture.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6986B0-DCBE-4989-8246-A2F89B47DB30}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +30,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:42:07.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CleanArchitecture.Domain",
+              "DocumentMoniker": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "ToolTip": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "RelativeToolTip": "CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T17:40:38.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Domain\\Order.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Domain\\Order.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:41:27.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Domain\\Customer.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:37:58.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CleanArchitecture.Infrastructure",
+              "Title": "CleanArchitecture.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
               "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
               "ToolTip": "C:\\Users\\mmob3\\Desktop\\playlist articles\\sir articles\\project\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
