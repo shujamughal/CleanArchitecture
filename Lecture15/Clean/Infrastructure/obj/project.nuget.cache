@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Um1veRE8vFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mmob3\\Desktop\\CleanArchitecture Series\\project\\Clean\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmob3\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.3\\microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\mmob3\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.3\\microsoft.extensions.configuration.binder.9.0.3.nupkg.sha512",
+    "C:\\Users\\mmob3\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\mmob3\\.nuget\\packages\\microsoft.extensions.options\\9.0.3\\microsoft.extensions.options.9.0.3.nupkg.sha512",
+    "C:\\Users\\mmob3\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.3\\microsoft.extensions.options.configurationextensions.9.0.3.nupkg.sha512",
+    "C:\\Users\\mmob3\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
