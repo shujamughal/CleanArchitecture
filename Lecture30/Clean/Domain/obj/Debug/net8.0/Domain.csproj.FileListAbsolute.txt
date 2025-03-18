@@ -1,0 +1,11 @@
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\mmob3\Desktop\CleanArchitecture Series\project\Clean\Domain\obj\Debug\net8.0\ref\Domain.dll
