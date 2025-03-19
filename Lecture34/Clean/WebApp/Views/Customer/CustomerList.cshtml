@@ -1,0 +1,31 @@
+﻿@model List<WebApp.Models.CustomerViewModel>
+
+@{
+    ViewData["Title"] = "Customer List";
+}
+
+<h2>Customer List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>
+                    <a asp-action="CustomerDetails" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
