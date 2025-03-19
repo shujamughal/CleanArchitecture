@@ -20,9 +20,6 @@ namespace UnitTests.Mocks
             // Mock the Save method
             mockUow.Setup(uow => uow.Save()).Returns(Task.CompletedTask);
 
-            // Mock the Dispose method
-            mockUow.Setup(uow => uow.Dispose()).Callback(() => { });
-
             return mockUow;
         }
     }

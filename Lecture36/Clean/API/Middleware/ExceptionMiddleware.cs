@@ -1,4 +1,5 @@
-﻿using Application.Exceptions;
+﻿using API.Models;
+using Application.Exceptions;
 using Microsoft.AspNetCore.Http;
 using System.Net;
 using System.Text.Json;

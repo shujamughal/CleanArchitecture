@@ -23,7 +23,7 @@ namespace API.Controllers
         [HttpGet]
         public async Task<List<OrderDTO>> Get()
         {
-            var query = new GetOrdersQuery();
+            var query = new GetOrderQuery();
             return await _mediator.Send(query);
         }
 
